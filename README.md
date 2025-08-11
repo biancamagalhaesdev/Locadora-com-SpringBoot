@@ -1,0 +1,1 @@
+Trabalho final avaliativo de Programação Orientada a Objetos, feito em dupla a partir de um projeto de locadora anterior desenvolvido em progressão de uso efetivo de registros de memória(registro local com matriz e vetor,depois foi adaptado para sql e por fim sql e springB), nesse é usado banco SQL e springboot.
